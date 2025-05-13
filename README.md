@@ -1,13 +1,18 @@
-Hugo Lucero
-Lista de Usuarios
-para reforzar rutas, metodos http y manejos de datos Express
-Probamos los endpoints en ThunderClient o Postman, en este caso yo utilizo Postman
+# Hugo Lucero
 
-npms utilizados:
-npm init -y 
-npm install express 
-npm i nodemon("dev": "nodemon index.js", dentro de scripts para poder hacer npm run dev)
-npm i fs
-npm i path 
+## Lista de Usuarios
 
-# entrega_node_users
+Proyecto para reforzar rutas, métodos HTTP y manejo de datos con Express.
+
+Probamos los endpoints en **ThunderClient** o **Postman** (en este caso yo utilizo Postman).
+
+---
+
+### NPMs utilizados
+
+```bash
+npm init -y
+npm install express
+npm install nodemon
+npm install fs
+npm install path
